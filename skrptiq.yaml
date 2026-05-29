@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c2122aa7-fe18-425b-8b8b-8e2eb7b9b436"
+name: "polish-language"
+display_name: "Polish Language"
+description: "Corrects spelling, grammar, punctuation, and improves sentence clarity"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-polish-language"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
