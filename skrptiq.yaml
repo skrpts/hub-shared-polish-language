@@ -3,7 +3,7 @@ id: "9b1771e0-39b0-4fbc-8d45-738f51b6083a"
 name: "polish-language"
 display_name: "Polish Language"
 description: "Corrects spelling, grammar, punctuation, and improves sentence clarity"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
