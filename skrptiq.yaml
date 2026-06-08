@@ -3,7 +3,7 @@ id: "9b1771e0-39b0-4fbc-8d45-738f51b6083a"
 name: "polish-language"
 display_name: "Polish Language"
 description: "Corrects spelling, grammar, punctuation, and improves sentence clarity"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "prompt"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 1
