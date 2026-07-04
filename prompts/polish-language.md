@@ -4,7 +4,11 @@ id: polish-language
 title: "Polish Language"
 description: "Corrects spelling, grammar, punctuation, and improves sentence clarity"
 tags: [Production, Quality]
-
+context_params:
+  source:
+    label: "Source"
+    description: "The upstream content to polish."
+    default_from_previous: true
 metadata:
   output_format: markdown
   prompt_type: task
@@ -31,7 +35,7 @@ If no voice profile is provided, polish using standard editorial judgement.
 
 ### Text to Polish
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Grammar Strictness: {{step.context.grammar_strictness}}
 
