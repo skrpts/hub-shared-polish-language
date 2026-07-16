@@ -3,7 +3,7 @@ id: "9b1771e0-39b0-4fbc-8d45-738f51b6083a"
 name: "polish-language"
 display_name: "Polish Language"
 description: "Corrects spelling, grammar, punctuation, and improves sentence clarity"
-version: "1.0.5"
+version: "1.0.6"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-04T21:06:36.806Z"
+  scanned_at: "2026-07-16T14:46:22.784Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
